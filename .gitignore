@@ -1,0 +1,4 @@
+.git/
+# Hides Intellij files
+.idea/
+
